@@ -6,5 +6,6 @@
 *.pid
 *.class
 .vscode/
+.idea/
 bin/
 obj/
